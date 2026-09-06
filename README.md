@@ -9,6 +9,9 @@ Trabalho Final Disciplina Cloud Strategy  - Azure
 Alunos(as) - RM:
 
 Guilherme Csorgo Henriques: 370073
+
 Karen Luzia Vitório Martins: 370096
+
 Ludmila Rocha Silva: 372484
+
 Thiago Guilherme: 375344
